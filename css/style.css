@@ -1,0 +1,16 @@
+.flags {
+    width: 400px;
+    height: 255px;
+    border: 3px solid black;
+}
+
+.GetInfoBtn {
+    margin-top: 0.5rem;
+}
+
+.container {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
